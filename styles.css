@@ -10,7 +10,7 @@ html, body {
 }
 @font-face {
   font-family: magnetlight;
-  src: url(.MagnetTrial-ExtraLight-BF65f3b2c458ace.otf);
+  src: url("MagnetTrial-ExtraLight-BF65f3b2c458ace.otf");
 }
 main{
   width: 100%;
@@ -278,6 +278,7 @@ nav{
   width: 100%;
   background-color:#DFDAC6 ;
 }
+
 
 
 
